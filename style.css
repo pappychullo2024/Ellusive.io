@@ -174,7 +174,7 @@ div.section1_container {
 
   padding: 15px 118px 50px 118px;
   gap: 2rem;
-  background-image: url(../img/street_view.jpg);
+  background-image: url(./img/street_view.jpg);
   background-position: center;
   background-size: cover;
   animation: slide 8s 2s infinite;
@@ -206,15 +206,15 @@ div.read_button {
 
 @keyframes slide {
   0% {
-    background-image: url(../img/street_view.jpg);
+    background-image: url(./img/street_view.jpg);
   }
   25% {
-    background-image: url(../img/hall.jpg);
+    background-image: url(./img/hall.jpg);
 
     align-items: center;
   }
   50% {
-    background-image: url(../img/cap.jpg);
+    background-image: url(./img/cap.jpg);
     align-items: end;
   }
 }
