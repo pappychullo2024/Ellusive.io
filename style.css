@@ -269,7 +269,7 @@ h3 {
 /* section3//// */
 
 .section3 {
-  background-image: url(/img/ofiice.jpg);
+  background-image: url(./img/ofiice.jpg);
   background-position: center;
   background-size: cover;
 }
